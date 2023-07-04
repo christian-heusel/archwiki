@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nurlan",
-			"Ajiniyaz Nurniyazov"
+			"Ajiniyaz Nurniyazov",
+			"Nurlan"
 		]
 	},
 	"tag-visualeditor-wikitext": "Derekti redaktorlaw",
-	"tag-visualeditor-switched": "[[{{MediaWiki:visualeditor-descriptionpagelink}}|VizualRedaktor: Ózgerdi]]"
+	"tag-visualeditor-switched": "[[{{MediaWiki:visualeditor-descriptionpagelink}}|VizualRedaktor: Wikitekst Redaktorǵa ózgerdi]]",
+	"visualeditor-welcomedialog-title": "$2 joybarına {{GENDER:$1|xosh keldińiz!}}"
 }

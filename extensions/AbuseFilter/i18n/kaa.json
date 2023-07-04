@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nurlan",
-			"Ajiniyaz Nurniyazov"
+			"Ajiniyaz Nurniyazov",
+			"Nurlan"
 		]
 	},
+	"abusefilter": "Buzaqıshılıq háreketlerdi filtrlew menedjmenti",
 	"abuselog": "Buzaqıshılıqtı filtrlew jurnalı",
 	"abusefilter-blocker": "Buzaqıshılıq háreketlerdi filtrlew",
 	"right-abusefilter-log": "Buzaqıshılıqtı filtrlew jurnalın kóriw",
